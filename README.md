@@ -6,3 +6,8 @@ There are many pre-trained models which have been trained on millions of images 
 This repository contains the details of how to train a lightweight mobilenet for bottle classification. The data is available at my kaggle and can be accessed from https://www.kaggle.com/datasets/zahidbooni/bottles-dataset 
 
 The dataset contains 19192 small , 9781l large amd 4675 non-bottles objects respectively. I have uploaded the notebook on this repo , it can also be accessed from kaggle using this https://www.kaggle.com/code/zahidbooni/bottles-classification
+
+a sample from each class can be seen as follows
+
+![image](https://user-images.githubusercontent.com/56826204/210196600-22b862cc-6a18-4f27-81b3-3eed0fa2a5a7.png)
+
